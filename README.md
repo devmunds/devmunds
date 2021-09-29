@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 # Quem Somos
 
-Stabelecida em sua sede própria, rua José Prado dos
-Santos Filho, 306, a Devmunds surgiu em 2017, da
+Devmunds surgiu em 2017, da
 ideia de criar uma empresa de prestação de serviços
 para atuar na área de tecnologia, mais especificamente,
 no seguimento de internet.
